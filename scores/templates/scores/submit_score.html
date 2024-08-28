@@ -1,0 +1,8 @@
+<!-- scores/templates/scores/submit_score.html -->
+
+<h2>Submit Your Score</h2>
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Submit</button>
+</form>
