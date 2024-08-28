@@ -77,5 +77,5 @@ A real-time leaderboard system built with Django and Redis, featuring user authe
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-Project Idea:
+## Project Idea:
 https://roadmap.sh/projects/realtime-leaderboard-system
